@@ -1,7 +1,8 @@
-package com.faizikhwan.androidmvvmtutorial
+package com.faizikhwan.androidmvvmtutorial.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.faizikhwan.androidmvvmtutorial.R
 
 class MainActivity : AppCompatActivity() {
 
